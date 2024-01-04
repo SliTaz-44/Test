@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weihnachtsquiz", "Weihnachtsquiz\Weihnachtsquiz.csproj", "{9DD54EE7-C6EA-40FE-8EBF-3997ABED1E34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DD54EE7-C6EA-40FE-8EBF-3997ABED1E34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DD54EE7-C6EA-40FE-8EBF-3997ABED1E34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DD54EE7-C6EA-40FE-8EBF-3997ABED1E34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DD54EE7-C6EA-40FE-8EBF-3997ABED1E34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6610AB0-A7AE-47CF-8FAF-64453B2486EF}
+	EndGlobalSection
+EndGlobal
