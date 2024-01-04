@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-public class Weihnachtsquiz_203
+public class Weihnachtsquiz_2023
 {
     // globale Deklarationen und Definitionen für die Klasse Quiz
     
